@@ -54,7 +54,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.23)
     multi_json (1.7.7)
-    mysql2 (0.2.18)
+    mysql2 (0.3.12b6)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -113,7 +113,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   execjs
   jquery-rails
-  mysql2
+  mysql2 (> 0.3.x)
   rails (= 3.2.12)
   sass-rails (~> 3.2.3)
   sqlite3
