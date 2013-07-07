@@ -8,11 +8,7 @@ gem 'therubyracer'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-<<<<<<< HEAD
 gem 'mysql2','<0.3'
-=======
-gem 'mysql2'
->>>>>>> 16153b95eb15c726b23703c6a273b1c5b3fabd1f
 
 # Gems used only for assets and not required
 # in production environments by default.
